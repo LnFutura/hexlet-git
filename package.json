@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Hello i see you :) My first commit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/LnFutura/hexlet-git.git"
+  },
+  "author": "LnFutura, kwaz1k",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LnFutura/hexlet-git/issues"
+  },
+  "homepage": "https://github.com/LnFutura/hexlet-git#readme"
+}
